@@ -186,76 +186,77 @@
 
 <span style="color: red"> red </span>
 
-\<span style="color: red"> red </span>
+\<span style="color: red"> red \</span>
 
 <span style="color: orange"> orange </span>
 
-\<span style="color: orange"> orange </span>
+\<span style="color: orange"> orange \</span>
 
 <span style="color: yellow"> yellow </span>
 
-\<span style="color: yellow"> yellow </span>
+\<span style="color: yellow"> yellow \</span>
 
 <span style="color: green"> green </span>
 
-\<span style="color: green"> green </span>
+\<span style="color: green"> green \</span>
 
 <span style="color: lime"> lime </span>
 
-\<span style="color: lime"> lime </span>
+\<span style="color: lime"> lime \</span>
+
 <span style="color: limegreen"> limegreen </span>
 
-\<span style="color: limegreen"> limegreen </span>
+\<span style="color: limegreen"> limegreen \</span>
 
 <span style="color: #c5f015"> #c5f015 </span>
 
-\<span style="color: #c5f015"> #c5f015 </span>
+\<span style="color: #c5f015"> #c5f015 \</span>
 
 
-<span style="color:lightblue "> lightblue </span>
+<span style="color:lightblue ">lightblue
 
-\<span style="color:lightblue "> lightblue </span>
+\<span style="color:lightblue "> lightblue \</span>
 
 <span style="color:blue "> blue </span>
 
-\<span style="color:blue "> blue </span>
+\<span style="color:blue "> blue \</span>
 
 <span style="color: turquoise"> turquoise </span>
 
-\<span style="color: turquoise"> turquoise </span>
+\<span style="color: turquoise"> turquoise \</span>
 
 
 <span style="color:#1589F0 "> #1589F0 </span>
 
-\<span style="color:#1589F0 "> #1589F0 </span>
+\<span style="color:#1589F0 "> #1589F0 \</span>
 
 
 <span style="color: purple"> purple </span> 
 
-\<span style="color: purple"> purple </span>
+\<span style="color: purple"> purple \</span>
 
 
 <span style="color: violet"> violet </span>
 
-\<span style="color: violet"> violet </span>
+\<span style="color: violet"> violet \</span>
 
 
 <span style="color: pink"> pink </span>
 
-\<span style="color: pink"> pink </span>
+\<span style="color: pink"> pink \</span>
 
 
 <span style="color: hotpink"> hotpink </span>
 
-\<span style="color: hotpink"> hotpink </span>
+\<span style="color: hotpink"> hotpink \</span>
 
 <span style="color: grey"> grey </span>
 
-\<span style="color: grey"> grey </span>
+\<span style="color: grey"> grey \</span>
 
 <span style="color: brown"> brown </span>
 
-\<span style="color: brown"> brown </span>
+\<span style="color: brown"> brown \</span>
 
 
 
