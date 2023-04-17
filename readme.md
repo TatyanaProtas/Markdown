@@ -182,7 +182,10 @@
 
 # Цветной текст
 
-отображается в visual studio code
+отображается в visual studio code на GitHub не работает(
+
+<kbd><img src="https://github.com/TatyanaProtas/Markdown/blob/main/11.png?raw=true"/>  
+</kbd>
 
 <span style="color: red"> red </span>
 
@@ -258,9 +261,3 @@
 
 \<span style="color: brown"> brown \</span>
 
-
-
-<kbd><img src="https://github.com/TatyanaProtas/Markdown/blob/main/9.png?raw=true" />  
-</kbd>
-
-<p> hello $.;'there </p>
